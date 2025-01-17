@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samsakthi2008
-- 👀 I’m interested in powershell integerated automations
+- 👀 I’m interested in powershell,php,js and IT INfrastructure integerated automations
 - 🌱 I’m currently learning All IT stuff
 - 💞️ I’m looking to collaborate on powershell with php
 - 📫 How to reach me samsakthi@hotmail.com
